@@ -1,0 +1,22 @@
+.container {
+  background-color: aqua;
+  width: 400px;
+  margin: auto;
+  
+
+  table,
+  th,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  background-image: url(./360_F_436286115_Xw6aeK0u66VJSyy9gBTpZO6bXMHdQLio.jpg);
+  
+}
+.cont {
+  width: 1500px;
+  height: 800px;
+
+  background-image: url(./uefa-champions-league-star-football-logo-8dv90jbvwwhzp9c0.jpg);
+  background-repeat: no-repeat;
+}
